@@ -65,17 +65,13 @@ Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur)
 
 ### 4. Définition de l'Architecture
 Définissez le système global (hardware/software). **Utilisez Excalidraw pour les schémas d'architecture** et inclure les sources des diagrammes
-- **Contenu** : Diagramme flux (IA input → processing → output robots/UI). Expliquez communications (WiFi local, ROS topics).
-- **Plans A/B** 
-
-
 
 
 
 ## Plans A et B
 
-- **Plan A (Idéal)** : Interaction riche (Baxter + Pepper + IA + impression). Temps : 1 semaine (40h/2 pers.).
-- **Plan B (Garantie)** : Version basique (Pepper + webcam + affichage TV). Temps : 3-4 jours, fallback si matos indispo.
+- **Plan A (Idéal)** : Interaction riche . Temps : 1 semaine (40h/2 pers.).
+- **Plan B (Garantie)** : Version basique . Temps : 3-4 jours, fallback si matos indisponible.
 
 Expliquez pourquoi Plan B est robuste. Utilisez Excalidraw pour comparer les deux plans (diagramme side-by-side).
 
@@ -93,6 +89,7 @@ Créez un dépôt GitLab dédié. Structure :
 - Faisabilité (1 semaine/2 pers., offline).
 - Qualité explications (problèmes/solutions).
 - Clarté visuelle (storyboard, diagrammes Excalidraw).
+- Tests
 -  **Anticipation** : Expliquez problèmes potententiels et solutions.
 
 **Attention** :
