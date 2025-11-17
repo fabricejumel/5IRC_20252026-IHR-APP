@@ -33,7 +33,7 @@ Vidéo intégrée via YouTube (15s) : Interface tactile IHR.
 
 ## Matériel Disponible
 
-Utilisez ce qui est listé ; vous pouvez proposer d'ajouter des écrans ou autres équipements disponibles à l'école (ex. : capteurs supplémentaires, batteries pour robots).
+Utilisez ce qui est listé ; vous pouvez proposer d'ajouter des écrans ou autres équipements disponibles à l'école.
 
 - **Robots** : Baxter (mode recherche), Pepper (optionnel).
 - **Lampes interactives** : Logitech Beam LX (pour éclairage réactif).
@@ -51,7 +51,7 @@ Créez un storyboard séquentiel (6-12 panneaux) décrivant l'interaction compl�
 
 
 ### 2. Choix des Logiciels
-Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la compatibilité Ubuntu/CUDA/ROS.
+Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la compatibilité Ubuntu/CUDA/ROS. Expliquer les besoins en ressources et dépendances logicielles
 
 - **Composants clés** :
   - IA : Détection objets/émotions.
