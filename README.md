@@ -26,11 +26,11 @@ Vidéo intégrée via YouTube (15s) : Interface tactile IHR.
 ## Contraintes
 
 
-- Rendu via un nouveau dépôt GitLab (créez-le vous-même ; nommez-le ex. "HRI-Demo-WorldSkills-[Groupe]").
+- Rendu via votre dépôt GitLab 
 - Focus sur l'explication des problèmes potentiels et solutions.
 - Mettez l'accent sur un **Plan A** (idéal, innovant) et un **Plan B** (garanti en temps court, simple à développer).
-- Utilisez GitLab Flavored Markdown (GLFM) pour le README.md, compatible avec tables, diagrammes (via Excalidraw PNG), et previews offline.
-- Pour téléchargement : Sauvegardez ce sujet en fichier .md (copiez-collez dans un éditeur comme VS Code ou Typora), exportez en PDF via Pandoc (si installé localement) ou imprimer depuis GitLab preview. Structure optimisée pour export : Headers clairs, tables simples, sans liens externes.
+- Utilisez GitLab Flavored Markdown (GLFM) pour le README.md, compatible avec tables, diagrammes (via Excalidraw PNG en incluant le code générateur)
+
 
 ## Matériel Disponible
 
@@ -39,7 +39,7 @@ Utilisez ce qui est listé ; vous pouvez proposer d'ajouter des écrans ou autre
 - **Robots** : Baxter (mode recherche), Pepper (optionnel).
 - **Lampes interactives** : Logitech Beam LX (pour éclairage réactif).
 - **PCs** : PC gamer (2x RTX 3090 24 Go), PC Deep (2x RTX 1070 Ti) – sous Ubuntu 22.04 avec drivers CUDA installés.
-- **Périphériques** : Webcams, micros Logitech Orbi, StreamDeck Mini, imprimante A6 couleur (USB ou Ethernet), routeur WiFi local, 2 TVs/écrans (ajout possible d'autres écrans).
+- **Périphériques** : Webcams, micros Logitech Orbi, StreamDeck Mini, imprimante A6 couleur (USB ou Ethernet), routeur WiFi local, 2 TVs/écrans (ajout possible d'autres écrans)....
 
 **Réseau** : Utilisez le routeur WiFi pour un réseau local (comms entre PCs/robots/StreamDeck), sans internet. Utiliser le wifi que si vraiement utile
 
@@ -48,10 +48,8 @@ Utilisez ce qui est listé ; vous pouvez proposer d'ajouter des écrans ou autre
 ### 1. Storyboard des Interactions
 Créez un storyboard séquentiel (6-12 panneaux) décrivant l'interaction complète entre le public et la démo. Utilisez un format simple 
 
-- **Contenu** : Flux étape par étape (accueil → interaction → feedback → fin). Incluez rôles (robot, public, opérateur via StreamDeck).
-- **Plans A/B** : Plan A avec Baxter + Pepper + IA avancée ; Plan B simplifié.
-- **Outils** : Papier + scan imprimante, ou Draw.io offline (export PNG).
-- **Anticipation** : Expliquez problèmes potentiels et solutions.
+- **Plans A/B** : Plan A  ; Plan B simplifié.
+
 
 ### 2. Choix des Logiciels
 Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la compatibilité Ubuntu/CUDA/ROS.
@@ -59,18 +57,15 @@ Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la 
 - **Composants clés** :
   - IA : Détection objets/émotions.
   - Robots : Contrôle Baxter/Pepper.
-  - Interface : Web offline + StreamDeck.
-  - Autres : Audio/vidéo, impression.
-- **Format** : Tableau avec logiciel, justification, alternatives (Plan B), temps estimé.
-- **Problèmes** : Expliquez risques et solutions.
+  - Interface : Web offline + StreamDeck ou autre à proposer
+  - Impression
+
 
 ### 3. Définition de l'Architecture
 Définissez le système global (hardware/software). **Utilisez Excalidraw pour les schémas d'architecture** et inclure les sources des diagrammes
-- **Contenu** : Diagramme flux (IA input → processing → output robots/UI). Expliquez comms (WiFi local, ROS topics).
-- **Plans A/B** : Plan A multi-PC/multi-robot ; Plan B un PC + un robot.
-- **Outils pour schémas** : 
-  - **Excalidraw principal** : Créez des diagrammes clairs (blocs, flèches, labels) pour l'architecture. Exportez en PNG/SVG et intégrez dans le README (via chemin relatif ou drag-and-drop GitLab).
-  - Alternatives si Excalidraw indisponible : ASCII art dans Markdown ou Draw.io offline.
+- **Contenu** : Diagramme flux (IA input → processing → output robots/UI). Expliquez communications (WiFi local, ROS topics).
+- **Plans A/B** 
+
 
 
 ### 4. Proposition d'Interface
@@ -99,10 +94,9 @@ Créez un dépôt GitLab dédié. Structure :
 - Faisabilité (1 semaine/2 pers., offline).
 - Qualité explications (problèmes/solutions).
 - Clarté visuelle (storyboard, diagrammes Excalidraw).
--  **Anticipation** : Expliquez problèmes et solutions.
+-  **Anticipation** : Expliquez problèmes potententiels et solutions.
 
-**Ressources** :
-- Excalidraw : Téléchargez version offline pour diagrammes architecture.
+**Attention** :
 - ROS Baxter : attention ROS 1 / veille version de ubuntu <10. Impossible de faire des mises à jour du linux . eviter l'usage d'un apt install ou equivalent 
 - Pepper : NAOqi
 
