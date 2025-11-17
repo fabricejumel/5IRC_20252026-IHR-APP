@@ -53,13 +53,13 @@ Créez un storyboard séquentiel (6-12 panneaux) décrivant l'interaction compl�
 Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la compatibilité Ubuntu/CUDA/ROS. Expliquer les besoins en ressources et dépendances logicielles
 
 - **Composants clés** :
-  - IA : Détection objets/émotions.
+  - IA : Détection objets/émotions. Generation
   - Robots : Contrôle Baxter/Pepper.
-  - Interface : Web offline + StreamDeck ou autre à proposer
+  - Interface : Web offline + StreamDeck ou autre à proposer + Son
   - Impression
 
 ### 3. Proposition d'Interface
-Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur). Faites une proposition pour l'ensemble des briques d'interactions.
+Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur+ son par exemple ). Faites une proposition pour l'ensemble des briques d'interactions.
 
 
 
