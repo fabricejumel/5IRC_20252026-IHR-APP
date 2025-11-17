@@ -1,17 +1,15 @@
-## Démo IHR App
+
+# Sujet : Conception d'une Démo d'Interaction Homme-Robot dans le cadre du Mondiale des Métiers
+
+## Contexte et Objectifs
+
+Vus devez concevoir une démonstration d'interaction homme-robot (HRI) pour un stand "Concepteur d'Avenir" ldu Mondiale des  Métiers. Ce projet s'inspire de la participation de CPE LYON à un stand précédent, avec une démo utilisant le robot Baxter (intégrant son, position et émotions) et une démo IA (affichage YOLO pour détection d'objets + détection d'émotions sur les passants).
 
 [![Version 2024 SETUP](https://img.youtube.com/vi/dU6WokFrbxE/0.jpg)](https://www.youtube.com/watch?v=dU6WokFrbxE?autoplay=1&mute=1)
 
 Vidéo intégrée via YouTube (15s) : Interface tactile IHR.
 
 [![Version 2024 SETUP](https://img.youtube.com/vi/4Uqp6coTVtw/0.jpg)](https://www.youtube.com/watch?v=4Uqp6coTVtw?autoplay=1&mute=1)
-
-
-# Sujet : Conception d'une Démo d'Interaction Homme-Robot pour les WorldSkills des Métiers
-
-## Contexte et Objectifs
-
-Dans le cadre du programme 5ETI (Ingénierie des Systèmes et Technologies de l'Information), vous devez concevoir une démonstration d'interaction homme-robot (HRI) pour un stand "Concepteur d'Avenir" lors des WorldSkills des Métiers. Ce projet s'inspire de la participation de Fabrice Jumel à un stand précédent, avec une démo utilisant le robot Baxter (intégrant son, position et émotions) et une démo IA (affichage YOLO pour détection d'objets + détection d'émotions sur les passants).
 
 **Objectif principal** : Proposer une démo plus interactive avec le public, en exploitant le matériel disponible à l'école. L'interaction doit être engageante, éducative sur l'IA et la robotique, et adaptée à un contexte de salon (public varié, temps court par visiteur).
 
