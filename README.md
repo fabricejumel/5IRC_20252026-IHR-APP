@@ -75,7 +75,7 @@ Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur)
 ## Plans A et B
 
 - **Plan A (Idéal)** : Interaction riche (Baxter + Pepper + IA + impression). Temps : 1 semaine (40h/2 pers.).
-- **Plan B (Garantit)** : Version basique (Pepper + webcam + affichage TV). Temps : 3-4 jours, fallback si matos indispo.
+- **Plan B (Garantie)** : Version basique (Pepper + webcam + affichage TV). Temps : 3-4 jours, fallback si matos indispo.
 
 Expliquez pourquoi Plan B est robuste. Utilisez Excalidraw pour comparer les deux plans (diagramme side-by-side).
 
@@ -85,8 +85,8 @@ Expliquez pourquoi Plan B est robuste. Utilisez Excalidraw pour comparer les deu
 
 Créez un dépôt GitLab dédié. Structure :
 - README.md : Ce sujet rempli avec vos propositions (storyboard, tableaux, schémas Excalidraw en PNG).
-- Fichiers : Images PNG (storyboard, architecture via Excalidraw), snippets code tests, liste dépendances offline.
-- Commit final pour le XXX
+- Fichiers : Images PNG (storyboard, architecture via Excalidraw), code testés, 
+- Commit final pour le mardi 2 décembre 23H00
 
 **Critères d'évaluation** :
 - Innovation/engagement public.
