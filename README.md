@@ -58,16 +58,17 @@ Proposez et justifiez les outils logiciels (open-source, offline). Justifiez la 
   - Interface : Web offline + StreamDeck ou autre à proposer
   - Impression
 
+### 3. Proposition d'Interface
+Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur). Faites une proposition pour l'ensemble des briques d'interactions.
 
-### 3. Définition de l'Architecture
+
+
+### 4. Définition de l'Architecture
 Définissez le système global (hardware/software). **Utilisez Excalidraw pour les schémas d'architecture** et inclure les sources des diagrammes
 - **Contenu** : Diagramme flux (IA input → processing → output robots/UI). Expliquez communications (WiFi local, ROS topics).
 - **Plans A/B** 
 
 
-
-### 4. Proposition d'Interface
-Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur). Faites une proposition pour l'ensemble des briques d'interactions.
 
 
 
