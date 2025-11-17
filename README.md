@@ -13,8 +13,7 @@ Vidéo intégrée via YouTube (15s) : Interface tactile IHR.
 
 **Objectif principal** : Proposer une démo plus interactive avec le public, en exploitant le matériel disponible à l'école. L'interaction doit être engageante, éducative sur l'IA et la robotique, et adaptée à un contexte de salon (public varié, temps court par visiteur).
 
-## Durée et Équipe
-
+## Durée 
 **Durée du projet** : 
 - 3 jours pour la conception (storyboard, choix logiciels, architecture, interface).
 - Tests optionnels sur le matériel disponible à l'école ou en votre possesion pendant ces 3 jours.
