@@ -2,8 +2,7 @@
 # Sujet : Conception d'une Démo d'Interaction Homme-Robot dans le cadre du Mondiale des Métiers
 
 ## Contexte et Objectifs
-
-Vus devez concevoir une démonstration d'interaction homme-robot (HRI) pour un stand "Concepteur d'Avenir" ldu Mondiale des  Métiers. Ce projet s'inspire de la participation de CPE LYON à un stand précédent, avec une démo utilisant le robot Baxter (intégrant son, position et émotions) et une démo IA (affichage YOLO pour détection d'objets + détection d'émotions sur les passants).
+Vus devez concevoir une démonstration d'interaction homme-robot (HRI) pour un stand "Concepteur d'Avenir" du Mondiale des  Métiers. Ce projet s'inspire de la participation de CPE LYON à un stand précédent, avec une démo utilisant le robot Baxter (intégrant son, position et émotions) et une démo IA (affichage YOLO pour détection d'objets + détection d'émotions sur les passants).
 
 [![Version 2024 SETUP](https://img.youtube.com/vi/dU6WokFrbxE/0.jpg)](https://www.youtube.com/watch?v=dU6WokFrbxE?autoplay=1&mute=1)
 
@@ -68,7 +67,7 @@ Définissez le système global (hardware/software). **Utilisez Excalidraw pour l
 
 
 ### 4. Proposition d'Interface
-Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur).
+Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur). Faites une proposition pour l'ensemble des briques d'interactions.
 
 
 
@@ -79,7 +78,7 @@ Proposez une interface utilisateur (ex. : web + StreamDeck Mini pour opérateur)
 
 Expliquez pourquoi Plan B est robuste. Utilisez Excalidraw pour comparer les deux plans (diagramme side-by-side).
 
-
+## début de tests préliminares des solutions 
 
 ## Rendu Final (GitLab)
 
