@@ -96,6 +96,7 @@ Créez un dépôt GitLab dédié. Structure :
 - Pepper : NAOqi / python 2.7.9
 
 **Banque de son de la demo 2024** :
+
 😊 Émotions positives
 - happy
 
