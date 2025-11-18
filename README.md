@@ -96,13 +96,22 @@ Créez un dépôt GitLab dédié. Structure :
 - Pepper : NAOqi / python 2.7.9
 
 **Banque de son de la demo 2024** :
-happy
-applause 
-sad
-scratch-head
-surpised 
-wait
-worry
+😊 Émotions positives
+- happy
+
+👏 Réactions enthousiastes
+- applause
+
+😢 Émotions négatives
+- sad
+- worry
+
+🤔 Gestes ou sons de réflexion
+- scratch-head
+- wait
+
+😲 Surprise
+- surprised
 
 **Banque de mouvementde la demo 2024**
 🖐 Mouvements des mains
