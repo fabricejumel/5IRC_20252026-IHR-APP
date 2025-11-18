@@ -73,7 +73,8 @@ Définissez le système global (hardware/software). **Utilisez Excalidraw pour l
 
 Expliquez pourquoi Plan B est robuste. Utilisez Excalidraw pour comparer les deux plans (diagramme side-by-side).
 
-## début de tests préliminares des solutions 
+##Début de tests préliminares des solutions 
+Montrer les retartds et logs 
 
 ## Rendu Final (GitLab)
 
