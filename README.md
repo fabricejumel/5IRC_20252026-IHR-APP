@@ -89,11 +89,11 @@ Créez un dépôt GitLab dédié. Structure :
 - Qualité explications (problèmes/solutions).
 - Clarté visuelle (storyboard, diagrammes Excalidraw).
 - Tests
--  **Anticipation** : Expliquez problèmes potententiels et solutions.
+-  **Anticipation** : Expliquez les problèmes potententiels et solutions.
 
 **Attention** :
 - ROS Baxter : attention ROS 1 / veille version de ubuntu <10. Impossible de faire des mises à jour du linux . eviter l'usage d'un apt install ou equivalent 
-- Pepper : NAOqi
+- Pepper : NAOqi / python 2.7.9
 
 
 
