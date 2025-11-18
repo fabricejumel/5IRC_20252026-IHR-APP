@@ -22,7 +22,7 @@ Vous devez concevoir une démonstration d'interaction homme-robot (HRI) pour un 
 ## Contraintes
 
 
-- Rendu via votre dépôt GitLab 
+- Rendu via votre dépôt GitLab , unn push doit être a minima effectué à chaque demi journée de travail.
 - Focus sur l'explication des problèmes potentiels et solutions.
 - Mettez l'accent sur un **Plan A** (idéal, innovant) et un **Plan B** (garanti en temps court, simple à développer).
 - Utilisez GitLab Flavored Markdown (GLFM) pour le README.md, compatible avec tables, diagrammes (via Excalidraw PNG en incluant le code générateur)
