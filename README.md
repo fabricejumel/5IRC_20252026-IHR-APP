@@ -6,8 +6,6 @@ Vous devez concevoir une démonstration d'interaction homme-robot (HRI) pour un 
 
 [![Version 2024 SETUP](https://img.youtube.com/vi/dU6WokFrbxE/0.jpg)](https://www.youtube.com/watch?v=dU6WokFrbxE?autoplay=1&mute=1)
 
-Vidéo intégrée via YouTube (15s) : Interface tactile IHR.
-
 [![Version 2024 SETUP](https://img.youtube.com/vi/4Uqp6coTVtw/0.jpg)](https://www.youtube.com/watch?v=4Uqp6coTVtw?autoplay=1&mute=1)
 
 **Objectif principal** : Proposer une démo plus interactive avec le public, en exploitant le matériel disponible à l'école. L'interaction doit être engageante, éducative sur l'IA et la robotique, et adaptée à un contexte de salon (public varié, temps court par visiteur).
