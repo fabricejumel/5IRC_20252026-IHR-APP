@@ -95,5 +95,64 @@ Créez un dépôt GitLab dédié. Structure :
 - ROS Baxter : attention ROS 1 / veille version de ubuntu <10. Impossible de faire des mises à jour du linux . eviter l'usage d'un apt install ou equivalent 
 - Pepper : NAOqi / python 2.7.9
 
+**Banque de son de la demo 2024** :
+happy
+applause 
+sad
+scratch-head
+surpised 
+wait
+worry
+
+**Banque de mouvementde la demo 2024**
+🖐 Mouvements des mains
+- hands_down.bag, hands_down_m.bag
+- hands_up.bag, hands_up_m.bag
+- hands_head2.bag, hands_head2_m.bag
+- give_hand2.bag, give_hand2_m.bag
+- grip2.bag, grip2_m.bag
+
+👋 Salutations et gestes
+- hi.bag, hi_m.bag
+- wave_hello.bag, wave_hello2.bag, wave_hello_m.bag
+- wave_big.bag, wave_big2.bag, wave_big_m.bag, wave_big2_m.bag
+- applause2.bag, applause2_m.bag
+
+🤗 Interactions sociales
+- hug.bag, hug_m.bag
+- jose.bag, jose2.bag, jose3.bag, jose_m.bag, jose2_m.bag, jose3_m.bag
+- nico.bag, nico_m.bag
+
+🤷 Expressions d'incertitude
+- dont_know.bag, dont_know2.bag, dont_know3.bag
+- dont_know_m.bag, dont_know2_m.bag, dont_know3_m.bag
+
+🤔 Gestes de réflexion ou de démonstration
+- look_hand.bag, look_hand2.bag, look_hand_m.bag, look_hand2_m.bag
+- scratch_head.bag, scratch_head_m.bag, scratch_test_m.bag
+- nescratch.bag, nescratch_m.bag
+- open2.bag, open2_m.bag
+- open_wide2.bag, open_wide2_m.bag
+- explain_left.bag, explain_left_m.bag
+
+😐 Postures neutres
+- neutral.bag, neutral_m.bag
+- neutral3.bag, neutral3_m.bag
+- neutral_open2.bag, neutral_open2_m.bag
+- neutral_hand2.bag, neutral_hand2_m.bag
+- neutral_point2.bag, neutral_point2_m.bag
+- neutral_down2.bag
+
+💪 Mouvements des bras
+- arms.bag, arms_m.bag
+- arms2.bag, arms2_m.bag
+
+😊 Émotions positives
+- happy.bag, happy-sav-test.bag, happy-sav-test_migrated.bag, happy_m.bag
+
+⏳ Attente ou pause
+- wait2.bag, wait2_m.bag
+- test.bag
+
 
 
